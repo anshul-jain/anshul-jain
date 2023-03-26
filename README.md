@@ -1,6 +1,13 @@
-### Hi there 👋
 
-- 👋 I'm anshul-jain
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<img src="https://komarev.com/ghpvc/?username=anshul-jain&style=flat-square&color=blue" alt=""/>
+
+<h1 align="center">
+   Hi 👋, I'm Anshul jain 
+</h1>
+
 - ⚡ I love programming, cloud, data structure and books
 - 🔭 I’m currently working on Java, NodeJS, Javascript, TypeScript, AWS, Docker, Kubernetes
 - 🌱 I’m learning and exploring the new tech stacks
@@ -43,12 +50,9 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anshul-jain)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshul-jain&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anshul-jain)](https://git.io/streak-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshul-jain&show_icons=true)
+  
 
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshul-jain&layout=compact)
