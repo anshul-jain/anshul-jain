@@ -9,7 +9,6 @@
 </h1>
 
 - ⚡ I love programming, cloud, data structure and books
-- 🔭 I’m currently working on Java, NodeJS, Javascript, TypeScript, AWS, Docker, Kubernetes
 - 🌱 I’m learning and exploring the new tech stacks
 - 👯 I’m looking to collaborate to Open source projects / exciting oppertunities`
 - 📫 How to find me: 
