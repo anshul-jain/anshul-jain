@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 ### :fire: My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anshul-jain)](https://git.io/streak-stats) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshul-jain&show_icons=true)
+[![Anshul's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-jain&show_icons=true&theme=transparent)](https://github.com/anshul-jain/github-readme-stats)
   
 
 
